@@ -4,11 +4,18 @@
     box-sizing: border-box;
 }
 
+html {
+    height: 100%;
+}
+
 body {
     background-color: #f7f7f7;
-    /* color: white; */
     font-family: 'Poppins', sans-serif;
     min-height: 100vh;
+    /* prevent overlapping */
+    display: flex;
+    flex-direction: column;
+    /* -------- */
 }
 
 form {
@@ -134,3 +141,4 @@ select {
     pointer-events: none;
     color: white;
 }
+

@@ -2,7 +2,7 @@
 
 A simple and animated Todo list designed with a lighter theme.
 
-![PrintScreen](https://github.com/thiagobruning/Todo-List/images/todo-image.png)
+![PrintScreen](https://github.com/thiagobruning/Todo-List/blob/master/images/todo-image.png)
 
 ## Technologies
  
